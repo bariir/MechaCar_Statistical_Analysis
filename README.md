@@ -30,7 +30,7 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 ![](/Resources/summary_suspension_coil.png)<br>
 
 - Lot1 in the summary has variance of 0.980 which is less than Lot2 and Lot3. Also, the variance of Lot3 is over the normal threshold. It has 170.<br>
--
+
 ![](/Resources/lot_summary.png) <br>
 
 
@@ -47,7 +47,7 @@ and low milage. Also, we have seen during the pendemic not lot of people are dri
 city that has more transportation. All of these are factors.<br>
 
 
-Test to Metric:
+Test to Metric: <br>
 To focus and narrow our test, we first evaluate MechaCar's capacity in cubic inches in comparison to other competitors.<br>
 
 
