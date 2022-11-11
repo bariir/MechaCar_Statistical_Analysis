@@ -29,15 +29,17 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 ![](/Resources/summary_suspension_coil.png)<br>
 
-- Lot1 in the summary has variance of 0.980 which is less than Lot2 and Lot3. Also, the variance of Lot3 is over the normal threshold. It has 170. <br>
+- Lot1 in the summary has variance of 0.980 which is less than Lot2 and Lot3. Also, the variance of Lot3 is over the normal threshold.
+It has 170. <br>
  ![](/Resources/lot_summary.png) <br>
 
 
 - T-Tests Results: <br>
 
-  ![](/Resources/t-test_to_determine_psi.png) <br>
+ ![](/Resources/t-test_to_determine_psi.png) <br>
 
-  ![](/Resources/t-test_to_determine_each_psi.png) <br>
+ ![](/Resources/t-test_to_determine_each_psi.png) <br>
+  
 
 ## Study Design: MechaCar vs Competition.
 Study Design: MachaCar against Competition
