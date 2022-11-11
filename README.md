@@ -34,11 +34,11 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 ![](/Resources/lot_summary.png) <br>
 
 
-T-Tests Results:
+T-Tests Results: <br>
 
 ![](/Resources/t-test_to_determine_psi.png) <br>
 
-![](/Resources/t-test_to_determine_each_psi.png)
+![](/Resources/t-test_to_determine_each_psi.png) <br>
 
 ## Study Design: MechaCar vs Competition.
 Study Design: MachaCar against Competition
