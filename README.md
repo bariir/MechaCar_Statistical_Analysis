@@ -35,10 +35,9 @@ It has 170. <br>
 
 
 - T-Tests Results: <br>
+ ![](/Resources/t-test_to_determine_psi.png)<br>
 
- ![](/Resources/t-test_to_determine_psi.png) <br>
-
- ![](/Resources/t-test_to_determine_each_psi.png) <br>
+ ![](/Resources/t-test_to_determine_each_psi.png)<br>
   
 
 ## Study Design: MechaCar vs Competition.
